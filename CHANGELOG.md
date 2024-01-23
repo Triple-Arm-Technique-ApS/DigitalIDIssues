@@ -10,6 +10,7 @@ https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/30 https://gi
 - Implemented two unit tests to check that "access reference nodes" and "can apply reference nodes" are properly rejected by the backend.
 - In the integrator API, the pincode is now returned in plain text (while remaining encrypted in the database).
 - Fixed issues in the ARX integration
+- Fixed issues with file import, the downloaded template will now work, unless it has been run previously
 
 ### Changed
 - Excluded the encrypted pincode from being returned to the frontend; replaced with a `hasPincode` property.
