@@ -1,7 +1,7 @@
 # Change Log
 All notable changes to this Digital ID will be documented in this file.
 
-## [Unreleased]
+## 0.1.0
 https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/30 https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/18
 ### Added
 - Disabled the "+ access button" when the resource disallows access.
