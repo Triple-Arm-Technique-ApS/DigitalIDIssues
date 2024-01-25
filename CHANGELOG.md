@@ -1,6 +1,21 @@
 # Change Log
 All notable changes to this Digital ID will be documented in this file.
 
+## [0.1.1] - [Release Date]
+
+### Added
+- Default Card Designs for Organization Units. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/4
+- Optimization for Card Design Rendering. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/10
+- Activation of Retry Mechanism for Printing Client. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/44
+
+### Changed
+- Updated Card Printer Details Page with new translations and field name changes. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/35
+
+### Fixed
+- Incorrect Dialog shown when blocking a card from the Profile List. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/33
+- Issue with the Change Pincode feature in the Mobile App (needs release). https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/42
+- Missing Loading State in Block Card Modal. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/29
+
 ## 0.1.0 - 1-24-2024
 https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/30 https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/18
 ### Added
