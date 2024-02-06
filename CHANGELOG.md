@@ -1,7 +1,21 @@
 # Change Log
 All notable changes to this Digital ID will be documented in this file.
 
-## [0.1.1] - [Release Date]
+## 1.1.3 - [Release Date]
+
+### Added
+- Refinement of default filters for node types with expiry to enhance user experience.
+
+### Changed
+- Adjusted picture ratio to match customer's current picture specifications for a more consistent visual representation.
+
+### Fixed
+- Incorrect navigation of "See All" links on Dashboard Tiles.
+- Missing groups in card design package retrieval for printing, ensuring all necessary elements are included.
+- Incorrect timestamps for events, aligning them with the actual time events occurred.
+
+
+## 0.1.1 - 1-2-2024
 
 ### Added
 - Default Card Designs for Organization Units. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/4
