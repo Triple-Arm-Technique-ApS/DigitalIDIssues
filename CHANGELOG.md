@@ -1,18 +1,23 @@
 # Change Log
 All notable changes to this Digital ID will be documented in this file.
 
-## 1.1.3 - [Release Date]
+## 0.1.2 - 08-02-2024
 
 ### Added
 - Refinement of default filters for node types with expiry to enhance user experience.
+- Display of profile pictures in square format for a unified visual approach.
+- Linking of existing card design package to Organization Unit for streamlined management.
+- Simplification of Person Details view, including the addition of Edit and Print Card buttons for enhanced usability.
+- Display of the newest requests and cards at the top of tables, ensuring immediate visibility of recent items.
 
 ### Changed
-- Adjusted picture ratio to match customer's current picture specifications for a more consistent visual representation.
+- Renamed "Send to Print Card" button in Print Card Slide-Over for clearer action indication.
 
 ### Fixed
-- Incorrect navigation of "See All" links on Dashboard Tiles.
-- Missing groups in card design package retrieval for printing, ensuring all necessary elements are included.
-- Incorrect timestamps for events, aligning them with the actual time events occurred.
+- Incorrect navigation of "See All" links on Dashboard Tiles, ensuring accurate redirection.
+- Missing groups in card design package retrieval for printing, guaranteeing inclusion of all necessary elements.
+- Incorrect timestamps for events, aligning them accurately with the actual time events occurred.
+- Minor bugs in the ui
 
 
 ## 0.1.1 - 1-2-2024
