@@ -4,21 +4,21 @@ All notable changes to this Digital ID will be documented in this file.
 ## 0.1.2 - 08-02-2024
 
 ### Added
-- Refinement of default filters for node types with expiry to enhance user experience.
-- Display of profile pictures in square format for a unified visual approach.
-- Linking of existing card design package to Organization Unit for streamlined management.
-- Simplification of Person Details view, including the addition of Edit and Print Card buttons for enhanced usability.
-- Display of the newest requests and cards at the top of tables, ensuring immediate visibility of recent items.
+- Refinement of default filters for node types with expiry to enhance user experience. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/37
+- Display of profile pictures in square format for a unified visual approach. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/54
+- Linking of existing card design package to Organization Unit for streamlined management. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/53
+- Simplification of Person Details view, including the addition of Edit and Print Card buttons for enhanced usability.  https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/55
+- Display of the newest requests and cards at the top of tables, ensuring immediate visibility of recent items.  https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/26
 
 ### Changed
-- Renamed "Send to Print Card" button in Print Card Slide-Over for clearer action indication.
+- Renamed "Send to Print Card" button in Print Card Slide-Over for clearer action indication.  https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/56
 
 ### Fixed
-- Incorrect navigation of "See All" links on Dashboard Tiles, ensuring accurate redirection.
-- Missing groups in card design package retrieval for printing, guaranteeing inclusion of all necessary elements.
-- Incorrect timestamps for events, aligning them accurately with the actual time events occurred.
+- Incorrect navigation of "See All" links on Dashboard Tiles, ensuring accurate redirection. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/36
+- Missing groups in card design package retrieval for printing, guaranteeing inclusion of all necessary elements. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/39
+- Incorrect timestamps for events, aligning them accurately with the actual time events occurred. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/9
 - Minor bugs in the ui
-
+- Unable to Assign Access from UI Under Organization Unit.  https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/60
 
 ## 0.1.1 - 1-2-2024
 
