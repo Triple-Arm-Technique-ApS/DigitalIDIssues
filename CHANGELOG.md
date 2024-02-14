@@ -4,8 +4,8 @@ All notable changes to this Digital ID will be documented in this file.
 ## 0.1.3 - 14-02-2024
 
 ### Fixed
-- Second person signing in becomes system owner, resolving potential security and access control issues.
-- Issue where a person is moved to entity root if the user already exists with the same identity provider ID property but is in a different group, ensuring correct group association.
+- Second person signing in becomes system owner, resolving potential security and access control issues. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/66
+- Issue where a person is moved to entity root if the user already exists with the same identity provider ID property but is in a different group, ensuring correct group association. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/69
 
 ## 0.1.2 - 08-02-2024
 
