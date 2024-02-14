@@ -4,7 +4,8 @@ All notable changes to this Digital ID will be documented in this file.
 ## 0.1.3 - 14-02-2024
 
 ### Fixed
-- The event created when access was approved now includes comprehensive information, addressing the issue of insufficient detail previously.
+- Second person signing in becomes system owner, resolving potential security and access control issues.
+- Issue where a person is moved to entity root if the user already exists with the same identity provider ID property but is in a different group, ensuring correct group association.
 
 ## 0.1.2 - 08-02-2024
 
