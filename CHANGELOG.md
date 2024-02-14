@@ -1,6 +1,11 @@
 # Change Log
 All notable changes to this Digital ID will be documented in this file.
 
+## 0.1.3 - 14-02-2024
+
+### Fixed
+- The event created when access was approved now includes comprehensive information, addressing the issue of insufficient detail previously.
+
 ## 0.1.2 - 08-02-2024
 
 ### Added
