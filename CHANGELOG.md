@@ -1,6 +1,15 @@
 # Change Log
 All notable changes to this Digital ID will be documented in this file.
 
+## 0.1.4 - 15-02-2024
+
+### Added
+- Feature to disable Keycloak Admin UI, enhancing security and reducing potential unauthorized access. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/31
+- Integration of Serilog for sending logs to Loki, improving logging capabilities and system monitoring. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/61
+- Capability to crop pictures directly within the mobile app, awaiting release, to enhance user experience and provide better control over profile image presentation. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/63
+- Functionality for operators to submit requests on behalf of users, streamlining the process and improving operational efficiency. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/64
+
+
 ## 0.1.3 - 14-02-2024
 
 ### Fixed
