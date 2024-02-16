@@ -9,6 +9,9 @@ All notable changes to this Digital ID will be documented in this file.
 - Capability to crop pictures directly within the mobile app, awaiting release, to enhance user experience and provide better control over profile image presentation. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/63
 - Functionality for operators to submit requests on behalf of users, streamlining the process and improving operational efficiency. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/64
 
+### Fixed
+- Backend errors not properly displayed in frontend notifications, ensuring that error messages are clearly communicated to users for better troubleshooting and user experience. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/73
+
 
 ## 0.1.3 - 14-02-2024
 
