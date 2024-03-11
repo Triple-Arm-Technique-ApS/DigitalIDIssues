@@ -8,6 +8,7 @@ All notable changes to this Digital ID will be documented in this file.
 - Option to make the Encoding Plugin optional for Card Design Packages, providing flexibility in card design customization and usage. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/51
 - System-wide picture ratio and picture validation feature, ensuring consistency and quality of images across the platform. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/12
 - Implementation of a Pick-up Point system for Card Requests, facilitating a more streamlined and efficient card distribution process. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/88
+- A list of access references next to credentials, enhancing the user's understanding and management of their access levels and associated credentials. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/34
 
 ## 0.1.4 - 15-02-2024
 
