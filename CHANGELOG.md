@@ -4,10 +4,10 @@ All notable changes to this Digital ID will be documented in this file.
 ## [0.1.5] - [Release Date]
 
 ### Added
-- "Number Series" parameter to Card Design Packages, allowing for more customizable and organized card design options.
-- Option to make the Encoding Plugin optional for Card Design Packages, providing flexibility in card design customization and usage.
-- System-wide picture ratio and picture validation feature, ensuring consistency and quality of images across the platform.
-- Implementation of a Pick-up Point system for Card Requests, facilitating a more streamlined and efficient card distribution process.
+- "Number Series" parameter to Card Design Packages, allowing for more customizable and organized card design options. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/57
+- Option to make the Encoding Plugin optional for Card Design Packages, providing flexibility in card design customization and usage. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/51
+- System-wide picture ratio and picture validation feature, ensuring consistency and quality of images across the platform. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/12
+- Implementation of a Pick-up Point system for Card Requests, facilitating a more streamlined and efficient card distribution process. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/88
 
 ## 0.1.4 - 15-02-2024
 
