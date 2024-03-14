@@ -9,6 +9,10 @@ All notable changes to this Digital ID will be documented in this file.
 - System-wide picture ratio and picture validation feature, ensuring consistency and quality of images across the platform. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/12
 - Implementation of a Pick-up Point system for Card Requests, facilitating a more streamlined and efficient card distribution process. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/88
 - A list of access references next to credentials, enhancing the user's understanding and management of their access levels and associated credentials. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/34
+- Confirmation dialog for node deletion, improving user experience and preventing accidental deletions.  https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/106
+
+### Fixed
+- Operator permissions not being respected for the Request Button, ensuring that user roles and permissions are correctly enforced for security and operational integrity. https://github.com/Triple-Arm-Technique-ApS/DigitalIDIssues/issues/107
 
 ## 0.1.4 - 15-02-2024
 
