@@ -1,33 +1,44 @@
 ---
-name: "Symmetry User Test Report"
-about: "Template for reporting user test results"
-title: "[User Test] - <Short Description of the Test>"
-labels: "user-test"
+name: "Symmetry Integration User Test Report"
+about: "Template for reporting integration user test results"
+title: "[Integration Test] - <Short Description of the Test>"
+labels: "integration-test"
 assignees: ""
 ---
 
-## User Test Report
+## Integration User Test Report
 
 ### Test Details
 - **Test Name:** 
 - **Test Date:** 
 - **Tester Name:** 
-- **Test Environment:** (e.g., Browser, Device, OS)
+- **Source System:** (e.g., Application A)
+- **Destination System:** (e.g., Application B)
 
-### Test Objective
-<!-- Briefly describe the purpose of this test -->
+### Initial State of the Source System
+<!-- Describe the initial state in detail -->
+- **State Description:** 
+  - Example: 3 People without any access
+- **Data Details:** 
+  - Person 1: No cards
+  - Person 2: One disabled cards, one active card
+  - Person 3: Two active cards
+
+### Expected Outcome in the Destination System
+<!-- Describe the expected result after integration -->
+- **Expected Outcome Description:** 
+  - Example: No export is performed to the destination system
 
 ### Steps to Reproduce
-1. 
-2. 
-3. 
+1. Remove the bookmark file
+2. Start the Symmetry integration service
+3. Stop the service after the bookmark file appears in the .data folder
 4. 
 
-### Expected Results
-<!-- Describe what you expected to happen -->
-
-### Actual Results
+### Actual Outcome in the Destination System
 <!-- Describe what actually happened -->
+- **Actual Outcome Description:** 
+  - Example: No export was performed / Export was performed incorrectly
 
 ### Observations
 <!-- Any additional observations or notes -->
@@ -49,9 +60,10 @@ assignees: ""
 <!-- Any recommendations or suggestions based on the test results -->
 
 ### Checklist
+- [ ] Initial state of the source system is clear and complete
+- [ ] Expected outcome is documented
 - [ ] Steps to reproduce are clear and complete
-- [ ] Expected results are documented
-- [ ] Actual results are documented
+- [ ] Actual outcome is documented
 - [ ] Severity is selected
 - [ ] Relevant media (screenshots/videos) are attached
 - [ ] Additional observations are noted
